@@ -8,8 +8,14 @@ git push
 
 git pull
 
+git status 
+
 ---
 
 ```
 docker build -t test-docker .
+```
+
+```
+docker login
 ```
